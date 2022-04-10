@@ -1,0 +1,10 @@
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\obj\Debug\netcoreapp2.1\2.csproj.CoreCompileInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\obj\Debug\netcoreapp2.1\2.AssemblyInfoInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\obj\Debug\netcoreapp2.1\2.AssemblyInfo.cs
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\bin\Debug\netcoreapp2.1\2.deps.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\bin\Debug\netcoreapp2.1\2.runtimeconfig.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\bin\Debug\netcoreapp2.1\2.runtimeconfig.dev.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\bin\Debug\netcoreapp2.1\2.dll
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\bin\Debug\netcoreapp2.1\2.pdb
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\obj\Debug\netcoreapp2.1\2.dll
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\ThirdLesson\ClassActivity\2\2\obj\Debug\netcoreapp2.1\2.pdb

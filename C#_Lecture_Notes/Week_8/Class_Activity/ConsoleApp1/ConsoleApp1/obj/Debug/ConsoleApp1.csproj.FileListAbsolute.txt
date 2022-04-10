@@ -1,0 +1,7 @@
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\8th_lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,10 @@
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\6th_lesson\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

@@ -1,0 +1,10 @@
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.csprojAssemblyReference.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.Form1.resources
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.CoreCompileInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstForm\FirstForm\obj\Debug\FirstForm.pdb

@@ -1,0 +1,8 @@
+you have ordered 1 pizzas 
+ you have ordered 1 burger 
+ you have ordered 2 kumpir
+extra choosen:
+double cheese
+double beef
+tax: 177.3
+your total is: 985

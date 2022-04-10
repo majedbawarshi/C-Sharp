@@ -1,0 +1,11 @@
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\bin\Debug\netcoreapp2.1\FirstConsolApp.deps.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\bin\Debug\netcoreapp2.1\FirstConsolApp.runtimeconfig.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\bin\Debug\netcoreapp2.1\FirstConsolApp.runtimeconfig.dev.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\bin\Debug\netcoreapp2.1\FirstConsolApp.dll
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\bin\Debug\netcoreapp2.1\FirstConsolApp.pdb
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\obj\Debug\netcoreapp2.1\FirstConsolApp.csprojAssemblyReference.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\obj\Debug\netcoreapp2.1\FirstConsolApp.csproj.CoreCompileInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\obj\Debug\netcoreapp2.1\FirstConsolApp.AssemblyInfoInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\obj\Debug\netcoreapp2.1\FirstConsolApp.AssemblyInfo.cs
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\obj\Debug\netcoreapp2.1\FirstConsolApp.dll
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\SecondLesson\FirstConsolApp\FirstConsolApp\obj\Debug\netcoreapp2.1\FirstConsolApp.pdb

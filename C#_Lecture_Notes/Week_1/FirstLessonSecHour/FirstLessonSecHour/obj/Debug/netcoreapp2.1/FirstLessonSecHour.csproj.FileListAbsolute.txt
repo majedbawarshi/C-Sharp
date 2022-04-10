@@ -1,0 +1,11 @@
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\bin\Debug\netcoreapp2.1\FirstLessonSecHour.deps.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\bin\Debug\netcoreapp2.1\FirstLessonSecHour.runtimeconfig.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\bin\Debug\netcoreapp2.1\FirstLessonSecHour.runtimeconfig.dev.json
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\bin\Debug\netcoreapp2.1\FirstLessonSecHour.dll
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\bin\Debug\netcoreapp2.1\FirstLessonSecHour.pdb
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\obj\Debug\netcoreapp2.1\FirstLessonSecHour.csprojAssemblyReference.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\obj\Debug\netcoreapp2.1\FirstLessonSecHour.csproj.CoreCompileInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\obj\Debug\netcoreapp2.1\FirstLessonSecHour.AssemblyInfoInputs.cache
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\obj\Debug\netcoreapp2.1\FirstLessonSecHour.AssemblyInfo.cs
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\obj\Debug\netcoreapp2.1\FirstLessonSecHour.dll
+E:\For_Backup\UniversitySubjects\university_docs\thirdYear\FirstSemester\C#\FirstLessonSecHour\FirstLessonSecHour\obj\Debug\netcoreapp2.1\FirstLessonSecHour.pdb
